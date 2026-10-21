@@ -1,23 +1,76 @@
 aid: cintaporbit
+
 name: CINTAP
-description: 'CINTAP is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://cintaporbit.com/og/orbit-suite-og.png
+
+description: 'CINTAP provides an enterprise integration platform (iPaaS) that connects applications, APIs, files, documents, and partners through a no-code environment. Their suite includes products like Orbit, Kepler, Nova, and AI Mapping Engine, enabling data flow automation, B2B integration, and document intelligence. CINTAP serves businesses seeking to streamline integration, reduce handoffs, and accelerate digital transformation with a unified platform.'
+
 url: https://raw.githubusercontent.com/api-evangelist/cintaporbit/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:g2-catalog
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-20 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-20'
+
 modified: '2026-10-20'
+
 tags:
 - Company
-apis: []
+- Integration
+- iPaaS
+- Automation
+- B2B
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Conformance
+  url: conformance/cintaporbit-conformance.yml
+- type: LLMsTxt
+  url: llms/cintaporbit-llms.txt
+- type: Hosts
+  url: hosts/cintaporbit-hosts.yml
+- type: Login
+  url: https://cintaporbit.com/login
+- type: DomainSecurity
+  url: security/cintaporbit-domain-security.yml
 - type: Website
   url: https://cintaporbit.com/
+- type: Blog
+  url: https://cintaporbit.com/blogs
+- type: TermsOfService
+  url: https://cintaporbit.com/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://cintaporbit.com/privacy-policy
+- type: Support
+  url: https://cintaporbit.com/contact
+
+apis: []
+x-enrichment:
+  date: '2026-10-20'
+  status: enriched
+  artifacts_added: 10
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local
+x-coverage:
+  state: none
+  reason: no-developer-program
+  method: derived
+  generated: '2026-10-20'
+  generator: derive-coverage.py (pre-flight evidence)
+  detail: >-
+    the company publishes no developer documentation host and no machine-readable contract on its own domain
+  evidence:
+  - url: https://cintaporbit.com/
+    status: 200

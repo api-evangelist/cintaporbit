@@ -1,0 +1,59 @@
+# CINTAP ORBIT
+
+> CINTAP Orbit is the AI-powered enterprise integration platform by CINTAP Inc. Unify apps, APIs, files, documents, and partners on one no-code integration platform.
+
+CINTAP ORBIT (https://cintaporbit.com) is an enterprise iPaaS alternative for B2B integration, EDI, managed file transfer, intelligent document processing (IDP), API management, secure file collaboration, and AI agents that build and operate integrations. SOC 2 Type II certified. Every public page also has a Markdown mirror: append `.md` to the path (for example https://cintaporbit.com/apps/orbit-bpi.md).
+
+## Products
+
+- [Orbit BPI](https://cintaporbit.com/apps/orbit-bpi): Integration engine for process flows, connectors, EDI (X12, EDIFACT), APIs, and orchestration
+- [MAPR AI](https://cintaporbit.com/apps/mapr-ai): Agentic mapping engine that drafts, dry-runs, and repairs complete mapping rule sets
+- [SecureFlow MFT](https://cintaporbit.com/apps/secureflow-mft): Managed file transfer for AS2, SFTP, FTPS, and OFTP2 with encryption and audit trails
+- [Orbit IDP](https://cintaporbit.com/apps/orbit-ocr): Intelligent document processing: PDF, invoice, and PO to structured JSON
+- [Edge API Gateway](https://cintaporbit.com/apps/edge-api-gateway): Expose process flows as policy-controlled REST APIs with consumers, keys, and traffic logs
+- [Orbit Vault](https://cintaporbit.com/apps/orbit-vault): Encrypted enterprise file storage, sharing, and collaboration
+- [Trading Partner Management](https://cintaporbit.com/apps/trading-partner-management): One master record per customer, supplier, 3PL, and carrier, reused across every flow
+
+## AI agents
+
+- [AgentCosmos](https://cintaporbit.com/agentcosmos): The 14-agent family that runs inside Orbit, plus the Agent Gateway (MCP) for Claude, Cursor, and Copilot
+- [Kepler](https://cintaporbit.com/apps/kepler): Orbit's super agent: answers from live tenant data, builds integrations, runs flows, confirms anything risky
+- [Nova](https://cintaporbit.com/apps/nova): Kepler's build specialist: assembles whole integrations stage by stage on a live build rail
+
+## Solutions
+
+- [EDI & B2B Integration](https://cintaporbit.com/solutions/edi-b2b): Trading partner onboarding, X12/EDIFACT, supplier automation
+- [API Integration](https://cintaporbit.com/solutions/api-integration): REST/SOAP orchestration across ERP, CRM, and cloud apps
+- [Data Migration](https://cintaporbit.com/solutions/data-migration): Legacy-to-cloud and ERP data migration with validated mappings
+- [Document Intelligence](https://cintaporbit.com/solutions/document-intelligence): Invoice, PO, and unstructured document extraction with Orbit IDP
+- [Managed File Transfer](https://cintaporbit.com/solutions/managed-file-transfer): Secure B2B file exchange at scale
+- [Industry Solutions](https://cintaporbit.com/solutions/industry): Retail, manufacturing, logistics, and healthcare patterns
+
+## Key pages
+
+- [Platform overview](https://cintaporbit.com/platform): Architecture, shared services, security, and how the apps fit together
+- [Connectors](https://cintaporbit.com/connectors): 44+ pre-built connectors including SAP, Salesforce, and NetSuite
+- [Resources](https://cintaporbit.com/resources): Product guides, agent briefs, planning material, and case studies
+- [Case studies](https://cintaporbit.com/case-studies): Downloadable customer reports with problem, build, and measured outcome
+- [Blog](https://cintaporbit.com/blogs): EDI, API, and B2B integration articles
+- [Free EDI converter](https://cintaporbit.com/about-edi-converter): Free X12, EDIFACT, and TRADACOM conversion to JSON, XML, CSV, and Excel
+- [Book a demo](https://cintaporbit.com/book-a-demo): Schedule a 45-minute engineer-led walkthrough (calendar embedded on the page)
+- [Contact](https://cintaporbit.com/contact): Message the team or reach sales
+- [About](https://cintaporbit.com/about): Company and platform overview
+- [Partners](https://cintaporbit.com/partners): Program for system integrators, technology partners, and consultants
+- [Careers](https://cintaporbit.com/careers): Open role areas
+
+## Contact
+
+- Website: https://cintaporbit.com
+- Email: customercare@cintap.com
+- Phone: +1-833-417-0064
+- Office: 2591 Dallas Pkwy, Suite 300, Texas 75034
+- LinkedIn: https://www.linkedin.com/company/cintap-us/
+
+## Optional
+
+- [Full site guide for AI systems](https://cintaporbit.com/llms-full.txt): Extended product descriptions, positioning, and page index
+- [Sitemap](https://cintaporbit.com/sitemap.xml): Every public page, including blog posts and case studies
+- [Privacy Policy](https://cintaporbit.com/privacy-policy)
+- [Terms & Conditions](https://cintaporbit.com/terms-and-conditions)

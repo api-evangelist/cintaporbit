@@ -1,0 +1,11 @@
+generated: '2026-10-20'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://cintaporbit.com/privacy-policy
+sources:
+- https://cintaporbit.com/privacy-policy
+standards:
+- id: soc2
+  conforms: true
+  evidence: SOC 2
+docs: https://cintaporbit.com/privacy-policy

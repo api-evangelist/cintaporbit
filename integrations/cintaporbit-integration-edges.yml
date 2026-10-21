@@ -1,0 +1,18 @@
+generated: '2026-10-20'
+method: none
+source:
+- https://zapier.com/apps/cintaporbit/integrations
+- https://zapier.com/apps/cintap/integrations
+- https://n8n.io/integrations/cintaporbit/
+- https://composio.dev/toolkits/cintaporbit
+- https://monid.ai/tools/cintaporbit
+checked:
+- https://composio.dev/toolkits/cintaporbit
+- https://monid.ai/tools/cintaporbit
+- https://n8n.io/integrations/cintaporbit/
+- https://zapier.com/apps/cintap/integrations
+- https://zapier.com/apps/cintaporbit/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
